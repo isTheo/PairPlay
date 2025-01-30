@@ -2,7 +2,7 @@
 - Three grid layouts (4x2, 4x3, 4x4)
 - Score system with streak multipliers
 - Card flip animations
-- Lottie animations for level completion
+- Lottie animation for level completion
   
 
 
